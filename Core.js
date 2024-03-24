@@ -4283,7 +4283,7 @@ Typed *surrender* to surrender and admited defeat`
       // ]
       // let buttonMessage = {
       // image: { url: images },
-      // caption: `「 _Google Image Search_ 」
+      // caption: `「 _©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️_ 」
 
       // _Search Term_ : ${text}
       // _Media Url_ : ${images}`,
@@ -4313,7 +4313,7 @@ Typed *surrender* to surrender and admited defeat`
       //     images = n[Math.floor(Math.random() * n.length)].url;
       //     let buttonMessage = {
       //       image: { url: images },
-      //       caption: `「 _Google Image Search_ 」\n\n_Search Term_ : ${text}\n_Media Url_ : ${images}`,
+      //       caption: `「 _©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️_ 」\n\n_Search Term_ : ${text}\n_Media Url_ : ${images}`,
       //       footer: `${global.BotName}`,
       //       headerType: 4,
       //     };

@@ -17,7 +17,7 @@
 <u>📍Manul Official Bot MD💖</u>
 </p>
 
-[🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/2OJcIWwYTi4)
+[📍𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖💖](https://youtu.be/2OJcIWwYTi4)
 Link= "https://youtu.be/2OJcIWwYTi4"
 ____________________
 [📍 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💖]( https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN )
@@ -41,7 +41,7 @@ ____________________
  
  <p align="left">
 <a href="https://youtu.be/2OJcIWwYTi4"><img align="center" src="https://telegra.ph/file/2717975a4410096a24c0f.jpg" alt="DEPLOY" height="110" width="200" /></a>
-
+Link=https://youtu.be/2OJcIWwYTi4"
 ____________________
 
 ## 👇💖 Deploy Heroku 💖👇

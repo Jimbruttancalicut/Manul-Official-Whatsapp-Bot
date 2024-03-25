@@ -18,9 +18,10 @@
 </p>
 
 [🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/2OJcIWwYTi4)
+Link= "https://youtu.be/2OJcIWwYTi4"
 ____________________
 [📍 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💖]( https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN )
-
+Link="https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"
 
 ____________________
 

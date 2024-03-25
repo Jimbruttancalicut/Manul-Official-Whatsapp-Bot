@@ -58,8 +58,11 @@ ____________________
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19BEF7&random=false&width=435&lines=%F0%9F%92%96%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B8%F0%9D%98%80+%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B9%F0%9F%92%96;%F0%9F%93%8DMade+By-%3A+%C2%A9%CA%8D%C9%BE+%E2%84%82%F0%9D%95%AA%F0%9D%95%93%F0%9D%95%96%F0%9D%95%A3+%CA%8D%C9%91%D5%B2%D5%B4%D3%80+%D6%85%C6%92%C6%92%C3%AD%CF%B2%C3%AD%C9%91%D3%80%E2%99%A0%EF%B8%8F%F0%9F%92%96;%F0%9F%AA%80New++WhatsAppUser+Bot+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 
+
 ## 🤩 Support
-src="https://graph.org/file/7fa1e3c4724c08efdc44b.png"
+
+<a href="https://chat.whatsapp.com/HNZAgQEAhWA1f158UMkvgg"><img src="https://graph.org/file/7fa1e3c4724c08efdc44b.png" width="250" height="250" alt="manulofficial7"/></a>
+
 
 SUPPORT GROUP:="https://chat.whatsapp.com/HNZAgQEAhWA1f158UMkvgg"
 

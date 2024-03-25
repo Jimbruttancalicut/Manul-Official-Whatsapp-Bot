@@ -4,8 +4,9 @@
 <p align="center">
 <img src="https://telegra.ph/file/2717975a4410096a24c0f.jpg" width="300" height="300"/>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AFFAFFA&random=false&width=600&height=60&lines=%F0%9F%93%8D%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AE%F0%9D%90%A5+%F0%9D%90%8E%F0%9D%90%9F%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9F%92%96;%F0%9F%93%8D%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AC%F0%9D%90%80%F0%9D%90%A9%F0%9D%90%A9+%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%AD%F0%9F%A4%96)](https://git.io/typing-svg)
- 
+<p align="center">
+ [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F705&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%93%8D%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AE%F0%9D%90%A5+%F0%9D%90%8E%F0%9D%90%9F%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9F%92%96;%F0%9F%93%8D%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AC%F0%9D%90%80%F0%9D%90%A9%F0%9D%90%A9+%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%AD%F0%9F%A4%96)](https://git.io/typing-svg)
+
 <p align="center">
 <a href="#"><img title="sapot" src="https://img.shields.io/badge/Manul-Official-red.svg?style=for-the-badge&logo=github"></a>
 </p>

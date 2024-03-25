@@ -57,7 +57,7 @@ ____________________
 
 ## 🤩 Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/HNZAgQEAhWA1f158UMkvgg"
+SUPPORT GROUP:="https://chat.whatsapp.com/HNZAgQEAhWA1f158UMkvgg"
 
 
 - Star ⭐ the repo if you like MANUL-OFFICIAL-BOT.
@@ -65,7 +65,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/HNZAgQEAhWA1f158UMkvgg"
 
 
 ## `Main Creator` 
-<a href="https://github.com/manulofficial7"><img src="https://telegra.ph/file/ef84f5465117cd6d66c17.jpg" width="250" height="250" alt="manulofficial7"/></a>
+<a href="https://github.com/manulofficial7"><img src="[https://telegra.ph/file/ef84f5465117cd6d66c17.jpg](https://telegra.ph/file/a0c91f5f7d684d8c9894f.jpg)" width="250" height="250" alt="manulofficial7"/></a>
   
 `MANUL-OFFICIAL-BOT - By ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️`
 

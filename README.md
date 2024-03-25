@@ -69,7 +69,7 @@ SUPPORT GROUP:="https://chat.whatsapp.com/HNZAgQEAhWA1f158UMkvgg"
 ____________________
 
 
-- Star ⭐ the repo if you like MANUL-OFFICIAL-BOT.
+- Star ⭐ the repo if you like 📍Manul-Official-Whatsapp-Bot💖.
 
 
 ## `Main Creator` 

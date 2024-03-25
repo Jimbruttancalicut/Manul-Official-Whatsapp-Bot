@@ -66,6 +66,8 @@ ____________________
 
 SUPPORT GROUP:="https://chat.whatsapp.com/HNZAgQEAhWA1f158UMkvgg"
 
+____________________
+
 
 - Star ⭐ the repo if you like MANUL-OFFICIAL-BOT.
 

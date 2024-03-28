@@ -33,7 +33,7 @@ ____________________
 
 ## 👇💖 Get Season File 💖👇
   
-<a href= https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot  target="_blank"><img alt=SESSION FILE src= https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black /></a>
+<a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot=1' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ____________________
 

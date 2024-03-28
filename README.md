@@ -53,7 +53,7 @@ ____________________
 ____________________
 ## 👇💖Deploy Replit 💖👇
   
-<a href= https://replit.com/~  target="_blank"><img alt= Deploy Replit  src= https://img.shields.io/badge/DEPLOY REPLIT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black /></a>
+<a href='https://replit.com/@slsachith93/oror?v=1' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ____________________
 

@@ -2,7 +2,7 @@
 <u>📍Manul Official Bot MD💖</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/2717975a4410096a24c0f.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/7661a1073be8dbb3e1da2.jpg" width="300" height="300"/>
 
 <p align="center">
  
